@@ -17,3 +17,6 @@ strToGet = list('IND,India,United Kingdom,Australia,AUS,Moved Boxes in'.split(',
 
 for value in  map(lambda x: myDict.get(x.upper(), revDict.get(x.lower(),x.lower() + ' : Not Found')),strToGet):
         print str(list(value)[0].upper())+str(''.join(list(value)[1:]))
+        
+
+#End-of-File
