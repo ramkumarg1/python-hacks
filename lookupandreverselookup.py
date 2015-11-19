@@ -1,5 +1,8 @@
+#Copyright {2015} {Ramkumar Gopalkrishna}
+
 #Load  3 digit abbreveations and Country names, use it for looks ups within text,
 #Also reverse lookup the dictiorny so both the formats looks up give positive results
+
 
 mydict = {}
 
