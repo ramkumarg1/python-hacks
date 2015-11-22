@@ -5,6 +5,8 @@
 
 #Data used from http://www.worldatlas.com/aatlas/ctycodes.htm
 
+#Example India and IND gives positive results
+
 myDict = {}
 
 for lines in open("data/abrcountry.txt"):
