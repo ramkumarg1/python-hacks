@@ -1,0 +1,10 @@
+
+
+Caters for only positive and negative sentiments, there is no neutral (mainly becuase there there were none in the training set)
+Get the training corpus from any publicly available datasets and save them as 'training.txt' in the same directory as the python scripts
+
+To Run
+
+python getTweet.py & ; tail -F tweets | python classify.py
+
+
