@@ -2,10 +2,10 @@
 import tweepy 
 import json
 
-consumer_key="Q5v9xOBKEQsAAYyWt6Hg"
-consumer_key_secret="Y8op2C2ZNOHbtuNtFU2vpDMRJ9S7dlviKPNdbpC4"
-access_token = "100223246-25Be2q6xqc50fbMENhUdLNaOlWWimQc8CA6ue8sD"
-access_token_secret = "cXDE5ZxwxQaH9DcIfBpuiKT8NG84krZyhVaPeBtCexG0p"
+consumer_key="Consumer Key from Twitter"
+consumer_key_secret="Secret from Twitter"
+access_token = "Access Token"
+access_token_secret = "Access Token Secret"
 twts = open("tweets","w")
 
 
